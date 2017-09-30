@@ -1,0 +1,161 @@
+h1 {
+  color: maroon;
+  text-align: center;
+  font-weight: bold;
+  font-size: 35px;
+  font-family: 'Sedgwick Ave', cursive;
+  padding-top: 15pt;
+  padding-right:2pt;
+  padding-bottom: 15pt;
+  padding-left: 0pt;
+  background-color: rgb(218, 165, 32);
+  border-top: 3px;
+  border-color: #696969;
+  border-style: solid;
+}
+h2
+{
+    color:maroon;
+    font-weight: bold;
+    font-family: 'Sedgwick Ave', cursive;
+    padding-top: 0pt;
+    padding-right: 5pt;
+    padding-bottom: 5pt;
+    padding-left: 5pt;
+    text-align: center;
+    background-color: #FFFACD;
+
+}
+a:link, a:visited{
+  color:maroon;
+}
+body{
+  background-image: url(http://bgfons.com/uploads/bones/bones_texture2469.jpg);
+}
+.tails
+{
+
+padding-left: 20pt;
+padding-top: 5pt;
+padding-right: 5pt;
+padding-bottom: 5pt;
+height:280px;
+width: 900px;
+margin-left: 200px;
+border-radius: 30%;
+
+}
+
+.brushing
+{
+  float: right;
+  border-radius: 50%;
+  margin-top:200px;
+  margin-right:50px;
+  margin-left:50px;
+}
+.bath
+{
+  float: right;
+  border-radius: 35%;
+  height:480px;
+  width: 400px;
+  padding-top: 55pt;
+  padding-right: 15pt;
+
+}
+.curls
+{
+float: right;
+border-radius: 50%;
+height:180px;
+width: 200px;
+margin-top:50px;
+}
+.trim
+{
+  float: right;
+  border-radius: 50%;
+  height:180px;
+  width: 200px;
+  margin-top:50px;
+
+}
+
+.spatreatment
+{
+    float: right;
+    border-radius: 35%;
+    height:550px;
+    width: 600px;
+    padding-top: 10pt;
+    padding-bottom: 10pt;
+    padding-right: 10pt;
+}
+h3{
+  text-align: center;
+  background-color: rgb(218, 165, 32);
+  color:maroon;
+  font-weight: bold;
+  font-size:25px;
+  font-family: 'Sedgwick Ave', cursive;
+  padding-top: 0pt;
+  padding-right: 5pt;
+  padding-bottom: 5pt;
+  padding-left: 5pt;
+  border-top: 3px;
+  border-color: #696969;
+  border-style: solid;
+}
+p {
+  font-family: 'Handlee', cursive;
+  font-size: 15pt;
+  padding-top: 15pt;
+  padding-right: 15pt;
+  padding-bottom: 15pt;
+  padding-left: 15pt;
+  background-color: rgba(255, 250, 205,0.5);
+}
+.policy{
+  float: left;
+  border-radius: 50%;
+  margin-right: 10pt;
+  margin-left: 10pt;
+  padding-top: 5pt;
+  padding-bottom: 5pt;
+  
+
+
+}
+.walk-in
+{
+
+}
+.flea {
+  font-family: 'Handlee', cursive;
+  font-size: 15pt;
+  padding-top: 50pt;
+  padding-right: 15pt;
+  padding-bottom: 50pt;
+  padding-left: 15pt;
+  background-color: rgba(255, 250, 205,0.5);
+  text-align: right;
+}
+li {
+  font-family: 'Handlee', cursive;
+  font-size: 15pt;
+  padding-top: 15pt;
+  padding-right: 15pt;
+  padding-bottom: 15pt;
+  padding-left: 15pt;
+  background-color: rgba(255, 250, 205,0.5);
+}
+table,tr,th, td {
+  border:1px solid black;
+  padding: 3px;
+}
+article{
+  webkit-column-count:3;
+  webkit-column-gap: 21px;
+  In order to maintain a flea-free salon and ensure that fleas are not spread to other pets, if any pet is discovered to have fleas the grooming will immediately stop and the owner will be called to pick up their pet. The area will then be treated for fleas. The flea charge is $40. This charge is to pay for the flea treatment supplies and the employee's lost time slot.
+}

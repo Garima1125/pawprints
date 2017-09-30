@@ -1,0 +1,116 @@
+h1 {
+  color: maroon;
+  text-align: center;
+  font-weight: bold;
+  font-size: 35px;
+  font-family: 'Sedgwick Ave', cursive;
+  padding-top: 15pt;
+  padding-right:2pt;
+  padding-bottom: 15pt;
+  padding-left: 2pt;
+  background-color: rgb(218, 165, 32);
+
+
+}
+
+.test{
+  float: right;
+  padding-top: 0pt;
+  padding-right: 5pt;
+  padding-bottom: 10pt;
+  height:180px;
+  width: 250px;
+
+}
+
+a:link, a:visited{
+  color:maroon;
+}
+h2{
+  text-align: center;
+  background-color: #FFFACD;
+}
+h2{
+  color:maroon;
+  font-weight: bold;
+  font-family: 'Sedgwick Ave', cursive;
+  padding-top: 0pt;
+  padding-right: 5pt;
+  padding-bottom: 5pt;
+  padding-left: 5pt;
+}
+
+h3{
+  color:maroon;
+  font-weight: bold;
+  font-family: 'Sedgwick Ave', cursive;
+  padding-top: 5pt;
+  padding-right: 5pt;
+  padding-bottom: 5pt;
+  padding-left: 5pt;
+  border-top: 3px;
+  border-color: #696969;
+  border-style: solid;
+  text-indent: 12px;
+  background-color: rgb(218, 165, 32);
+}
+p{
+  font-family: 'Handlee', cursive;
+  font-size: 15pt;
+  padding-top: 15pt;
+  padding-right: 15pt;
+  padding-bottom: 15pt;
+  padding-left: 15pt;
+  background-color: rgba(255, 250, 205,0.5);
+}
+footer{
+  font-family: 'Handlee', cursive;
+
+}
+
+.welcome {
+  background-color: rgb(255,215,0);
+}
+.spa{
+  float: bottom;
+  height:400px;
+  width: 400px;
+  border-radius: 50%;
+  margin-left: 50pt;
+  margin-right: 10pt;
+}
+.relax{
+  height:400px;
+  width: 400px;
+  padding-left:10pt;
+  border-radius: 50%;
+  padding-right: 10pt;
+
+}
+.music{
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+  padding-left: 10pt;
+}
+.services{
+  float: right;
+  height: 190px;
+  width: 250px;
+  border-radius: 50%;
+  padding-bottom: 0pt;
+  padding-top: 5pt;
+}
+.dogs{
+width:1000px;
+margin-left: 100px;
+border-radius: 30%;
+
+}
+.appointment{
+  border-radius: 50%;
+  float:bottom;
+}
+body{
+  background-image: url(http://bgfons.com/uploads/bones/bones_texture2469.jpg);
+}
